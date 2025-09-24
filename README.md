@@ -29,15 +29,17 @@ cd ToDo_Testing_Lisandro
 
 
 
-
+---
 
 ## 📸 Evidencias
 
 ### Resultado de Tests
 ![Resultado de tests](docs/pytest_result.png)
 
-### Reporte de Cobertura
-![Reporte de cobertura](docs/coverage_report.png)
+### Reporte de Cobertura (1)
+![Reporte de cobertura 1](docs/coverage_report1.png)
 
-### Prueba de Integración (Caja Gris)
-![Prueba de integración](docs/integration_test.png)
+### Reporte de Cobertura (2)
+![Reporte de cobertura 2](docs/coverage_report2.png)
+
+
