@@ -19,15 +19,6 @@ Se aplicaron las **tres técnicas de testing vistas en clase**:
 - **Lenguaje:** Python 3.13.7  
 - **Testing:** `pytest` + `coverage`  
 
----
-
-## ⚙️ Instalación
-Clona el repositorio y entra a la carpeta del proyecto:
-```bash
-git clone <URL_DEL_REPO>
-cd ToDo_Testing_Lisandro
-
-
 
 ---
 
@@ -41,5 +32,18 @@ cd ToDo_Testing_Lisandro
 
 ### Reporte de Cobertura (2)
 ![Reporte de cobertura 2](docs/coverage_report2.png)
+
+
+---
+
+## ⚙️ Instalación
+Clona el repositorio y entra a la carpeta del proyecto:
+```bash
+git clone <URL_DEL_REPO>
+cd ToDo_Testing_Lisandro
+
+
+
+
 
 
