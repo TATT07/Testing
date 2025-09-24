@@ -26,3 +26,18 @@ Clona el repositorio y entra a la carpeta del proyecto:
 ```bash
 git clone <URL_DEL_REPO>
 cd ToDo_Testing_Lisandro
+
+
+
+
+
+## 📸 Evidencias
+
+### Resultado de Tests
+![Resultado de tests](docs/pytest_result.png)
+
+### Reporte de Cobertura
+![Reporte de cobertura](docs/coverage_report.png)
+
+### Prueba de Integración (Caja Gris)
+![Prueba de integración](docs/integration_test.png)
